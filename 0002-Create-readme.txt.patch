@@ -1,0 +1,22 @@
+From 23dc46a9959e54f93a7b7364527b818515b68b60 Mon Sep 17 00:00:00 2001
+From: Agum Junianto <agum.junianto@gmail.com>
+Date: Sat, 20 Jul 2019 08:57:23 +0700
+Subject: [PATCH 2/2] Create readme.txt
+
+ini adalah percobaan petrama saya
+---
+ src/readme.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 src/readme.txt
+
+diff --git a/src/readme.txt b/src/readme.txt
+new file mode 100644
+index 0000000..8ed62b4
+--- /dev/null
++++ b/src/readme.txt
+@@ -0,0 +1 @@
++Ini adalah project gatsby pertam saya
+\ No newline at end of file
+-- 
+2.22.0.windows.1
+
