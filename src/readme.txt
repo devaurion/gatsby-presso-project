@@ -1,0 +1,1 @@
+Ini adalah project gatsby pertam saya
